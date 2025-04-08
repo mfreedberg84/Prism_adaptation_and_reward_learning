@@ -1,1 +1,1 @@
-# rism_adaptation_and_reward_learning
+# Prism_adaptation_and_reward_learning
